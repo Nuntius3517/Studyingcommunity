@@ -1,0 +1,52 @@
+1-4
+Negating Quantified Expressions
+
+Translation from English to Logical Expression
+
+Using Quantifiers in System Specifications
+
+
+1-5 Nested Quantifiers
+
+Nested Quantifiers
+
+Order of Quantifiers
+
+Translating Mathematical Statements into Predicate Logic 
+
+Negating Nested Quantifiers
+
+1-6 Rules of Inference
+
+Socrates Example(premises+conclusion)
+
+Inference Rules: 
+Modus Ponens (MP)
+Modus Tollens (MT)
+Hypothetical Syllogism
+Disjunctive Syllogism
+Addition.......Resolution
+
+Fallacies(is not logically valid.)
+
+Inference Rules for Quantified Statements:
+
+Universal Instantiation (UI).....Existential Generalization (EG)                       
+
+1-7 Normal Forms
+wff
+DNF
+CNF
+1-8 Proof
+
+作業:
+【1.1】1, 7, 9, 11, 15, 19, 21, 23, 25, 29.
+【1.2】1, 17.
+【1.3】3, 5, 9, 13, 19, 33, 37.
+【1.4】1, 7, 9 [(d)答案更正為F], 11, 19, 21, 31, 33.
+【1.5】5, 13, 15, 21, 25.
+【1.6】9(a), 11, 13.
+【1.8】3, 9, 11.
+【1.9】1, 3, 5, 13 17, 23.
+考試:3/12,第一章作業
+
