@@ -1,0 +1,70 @@
+<html>
+<head>
+<style>
+body {background-color:#000000;}
+h1   {color:#FFFF00;font-size:200%;font-family:verdana;}
+p    {color:#FFFFFF;font-size:130%;font-family:courier;}
+div  {color:#FF0000;font-size:130%;font-family:courier;}
+ff   {color:#FF0000;font-size:100%;font-family:courier;}
+</style>
+<title>My fucking VHDL</title>
+</head>
+<body>
+
+<h1 style="text-align:center">VHDL note part 1</h1>
+<h4 style="color:#FFFF00;text-align:center">v1.0.0 released by ACS107129</h4>
+<br>
+<h1>About VHDL</h1>
+<p>VHDL stands for "VHSIC Hardware Description Language."<br><br>VHSIC, in turn, stands for “Very High Speed Integrated Circuit”, which was a U.S. Department of Defense program to encourage research on high-performance IC technology.</p>
+<br>
+<h1>HDL-Based Design Flow</h1>
+<img src="./1.png">
+<br>
+<h1>Program Structure</h1>
+<p>Entity(單體) : 用來訂定實體的外接界面</p>
+<p>Entity兩大功能 ： 單體的宣告與輸出入埠的描述</p>
+<p>宣告形態（紅字爲關鍵字）：</p>
+<table border="1">
+<tr>
+<td>
+<p><ff>entity</ff> 單體名稱 <ff>is</ff></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<ff>port</ff>( 訊號A:<ff>模式 資料型態</ff>;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;訊號B:<ff>模式 資料型態</ff>;</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;訊號C,訊號D:<ff>模式 資料型態</ff>);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><ff>End </ff>單體名稱;</p>
+</td>
+</tr>
+</table>
+<br>
+<img src="./2.png">
+<br>
+
+<br> --start from  here 3/8 here here here
+
+
+<p>模式 ： 指輸出入埠模式，包括 <ff>In  Out  Inout Buffer</ff></p>
+<p><ff>In</ff>: 從外界接收訊號<br><ff>Out</ff>: 傳送訊號到外界<br><ff>Inout</ff>: 雙向傳輸<br><ff>Buffer</ff>: 緩衝模式</p>
+<p>資料型態： 訊號的形態，例如 <ff>STD_ULOGIC</ff> </p>
+<p>Architecture (架構)：訂定實體的行為</p>
+<p>宣告形態（紅字爲關鍵字）：</p>
+<table border="1">
+<tr>
+<td>
+<p><ff>architecture</ff> 架構名稱 <ff>of</ff> 單體名稱 <ff>is</ff>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;{架構的宣告區}</p>
+<p><ff>begin</ff></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;{架構的描述程式};&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><ff>end</ff> 架構名稱 ;</p>
+</td>
+</tr>
+</table>
+<br>
+<img src="./3.png">
+<br>
+
+
+
+
+
+</body>
+</html>
