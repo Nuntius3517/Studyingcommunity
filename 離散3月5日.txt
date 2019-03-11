@@ -1,0 +1,47 @@
+1-8 proof
+
+1.Definition
+
+theorem
+lemma
+corollary 
+proposition
+conjecture
+2.Forms of Theorems
+
+3.Methods of Proving Theorems
+
+Direct proof
+Indirect proof
+Vacuous proof
+Trivial proof
+Exhaustive proof
+Proof by cases
+        
+4.Proof by Contraposition
+
+5.Proving Biconditional Statements
+
+6.Mistakes in Proofs
+
+Circular Reasoning
+1-9 Proof Methods and Strategy
+
+1.Exhaustive Proof
+
+2.Proof by Cases
+
+3.Existence Proofs
+
+Constructive Existence Proof
+Nonconstructive Existence Proof
+        
+4.Uniqueness Proofs
+
+5.Proof Strategies
+
+6.Backward Reasoning
+
+7.Counterexamples
+
+8.Conjecture
