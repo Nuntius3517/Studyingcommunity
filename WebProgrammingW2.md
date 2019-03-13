@@ -2,7 +2,7 @@
 
 本次範圍:
 
-## [W3school:](https://www.w3schools.com/)
+## [W3scholi:](https://www.w3scholis.com/)
 
 - Html Element
 
@@ -16,17 +16,17 @@
 - Unorderlist
 (沒有順序)
 
-        <li>
-            <ul>1</ul>
-            <ul>2</ul>
-        </li>
+        <ul>
+            <li>1</li>
+            <li>2</li>
+        </ul>
 - Oderlist
 (有順序)
 
-        <li>
-            <ol>1</ol>
-            <ol>2</ol>
-        </li>
+        <ol>
+            <li>1</li>
+            <li>2</li>
+        </ol>
 
 ## **Attributes**
 
